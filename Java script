@@ -1,0 +1,123 @@
+/* ===============================
+
+   gallery.js
+
+   THE MEN BEHIND THE WIRE
+
+================================ */
+
+// Lightbox
+
+const lightbox = document.createElement("div");
+
+lightbox.className = "lightbox";
+
+const lightboxImg = document.createElement("img");
+
+lightbox.appendChild(lightboxImg);
+
+document.body.appendChild(lightbox);
+
+// Open Image
+
+document.querySelectorAll(".project-card img").forEach(img => {
+
+    img.addEventListener("click", () => {
+
+        lightbox.classList.add("active");
+
+        lightboxImg.src = img.src;
+
+    });
+
+});
+
+// Close Lightbox
+
+lightbox.addEventListener("click", () => {
+
+    lightbox.classList.remove("active");
+
+});
+
+// Gallery Filter
+
+const filterButtons = document.querySelectorAll(".filter-buttons button");
+
+const cards = document.querySelectorAll(".project-card");
+
+filterButtons.forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        const filter = button.dataset.filter;
+
+        cards.forEach(card => {
+
+            if (
+
+                filter === "all" ||
+
+                card.dataset.category === filter
+
+            ) {
+
+                card.style.display = "block";
+
+            } else {
+
+                card.style.display = "none";
+
+            }
+
+        });
+
+    });
+
+});
+
+// Scroll Animation
+
+const galleryObserver = new IntersectionObserver(entries => {
+
+    entries.forEach(entry => {
+
+        if (entry.isIntersecting) {
+
+            entry.target.style.opacity = "1";
+
+            entry.target.style.transform = "translateY(0)";
+
+        }
+
+    });
+
+},{
+
+    threshold:0.2
+
+});
+
+cards.forEach(card=>{
+
+    card.style.opacity="0";
+
+    card.style.transform="translateY(40px)";
+
+    card.style.transition=".6s ease";
+
+    galleryObserver.observe(card);
+
+});
+
+// Lazy Loading
+
+document.querySelectorAll("img").forEach(img=>{
+
+    img.loading="lazy";
+
+});
+
+// Console
+
+console.log("Gallery Loaded Successfully");
