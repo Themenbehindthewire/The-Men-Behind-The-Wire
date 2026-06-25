@@ -1,0 +1,17 @@
+# robots.txt
+
+# The Men Behind The Wire
+
+# https://themenbehindthewire.com
+
+User-agent: *
+
+Allow: /
+
+Disallow: /private/
+
+Disallow: /admin/
+
+Disallow: /cgi-bin/
+
+Sitemap: https://themenbehindthewire.c
