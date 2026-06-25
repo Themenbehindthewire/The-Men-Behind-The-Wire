@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Projects | The Men Behind The Wire</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+THE MEN BEHIND THE WIRE
+
+</div>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="about.html">About</a>
+
+<a href="services.html">Services</a>
+
+<a href="projects.html">Projects</a>
+
+<a href="estimating.html">Estimating</a>
+
+<a href="subcontracting.html">Subcontracting</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h3>Powered by Brandon Hargrove Electric LLC</h3>
+
+<h1>Our Projects</h1>
+
+<p>
+
+Real projects. Real workmanship. Real results.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Commercial Electrical</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="images/commercial1.jpg" alt="Commercial Project">
+
+<h3>Commercial Lighting</h3>
+
+<p>
+
+Lighting installations, branch circuitry and tenant fit-outs.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/commercial2.jpg" alt="Electrical Panel">
+
+<h3>Panel Installation</h3>
+
+<p>
+
+Commercial distribution equipment and panel upgrades.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Multi-Family Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="images/multi1.jpg">
+
+<h3>Apartment Rough-In</h3>
+
+<p>
+
+Complete rough wiring for apartment developments.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/multi2.jpg">
+
+<h3>Finish Work</h3>
+
+<p>
+
+Devices, lighting and final electrical installation.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>EV Infrastructure</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="images/ev1.jpg">
+
+<h3>Level 2 Chargers</h3>
+
+<p>
+
+Residential and commercial EV charging systems.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/ev2.jpg">
+
+<h3>DC Fast Charging</h3>
+
+<p>
+
+Commercial fleet charging and Eversource Make-Ready.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Security Cameras & POS</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="images/camera1.jpg">
+
+<h3>Security Cameras</h3>
+
+<p>
+
+Commercial surveillance systems and monitoring.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="images/pos1.jpg">
+
+<h3>POS Systems</h3>
+
+<p>
+
+Retail and restaurant point-of-sale installations.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="cta">
+
+<h2>
+
+Have a Project in Mind?
+
+</h2>
+
+<p>
+
+Contact us today to discuss your next electrical project.
+
+</p>
+
+<a class="primary-btn" href="contact.html">
+
+Request a Free Estimate
+
+</a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 THE MEN BEHIND THE WIRE
+
+</p>
+
+<p>
+
+Powered by Brandon Hargrove Electric LLC
+
+</p>
+
+<p>
+
+Dorchester, Massachusetts
+
+</p>
+
+<p>
+
+857-701-3842
+
+</p>
+
+<p>
+
+info@themenbehindthewire.com
+
+</p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
