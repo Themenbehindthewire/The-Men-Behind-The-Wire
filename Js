@@ -1,0 +1,101 @@
+// ===============================
+
+// THE MEN BEHIND THE WIRE
+
+// Brandon Hargrove Electric LLC
+
+// ===============================
+
+// Smooth scrolling
+
+document.querySelectorAll('a[href^="#"]').forEach(link => {
+
+  link.addEventListener("click", function (e) {
+
+    e.preventDefault();
+
+    const target = document.querySelector(this.getAttribute("href"));
+
+    if (target) {
+
+      target.scrollIntoView({
+
+        behavior: "smooth"
+
+      });
+
+    }
+
+  });
+
+});
+
+// Sticky Header
+
+const header = document.querySelector("header");
+
+window.addEventListener("scroll", () => {
+
+  if (window.scrollY > 75) {
+
+    header.style.background = "#050608";
+
+    header.style.boxShadow = "0 5px 25px rgba(0,0,0,.35)";
+
+  } else {
+
+    header.style.background = "#0b0d11";
+
+    header.style.boxShadow = "none";
+
+  }
+
+});
+
+// Fade In Animation
+
+const observer = new IntersectionObserver(entries => {
+
+  entries.forEach(entry => {
+
+    if (entry.isIntersecting) {
+
+      entry.target.classList.add("show");
+
+    }
+
+  });
+
+}, {
+
+  threshold: .15
+
+});
+
+document.querySelectorAll(".card,.cta,.services,.hero")
+
+.forEach(item => {
+
+  item.classList.add("hidden");
+
+  observer.observe(item);
+
+});
+
+// Current Year
+
+const footer = document.querySelector("footer");
+
+if (footer) {
+
+  footer.innerHTML +=
+
+  "<p style='margin-top:15px;font-size:14px;'>Website by The Men Behind The Wire © " +
+
+  new Date().getFullYear() +
+
+  "</p>";
+
+}
+
+console.log("The Men Behind The Wire Website Loaded");
