@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Electrical Estimating | The Men Behind The Wire</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+THE MEN BEHIND THE WIRE
+
+</div>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="about.html">About</a>
+
+<a href="services.html">Services</a>
+
+<a href="projects.html">Projects</a>
+
+<a href="estimating.html">Estimating</a>
+
+<a href="subcontracting.html">Subcontracting</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h3>Powered by Brandon Hargrove Electric LLC</h3>
+
+<h1>Electrical Estimating</h1>
+
+<p>
+
+Accurate takeoffs, professional bid preparation, and estimating services for commercial, multi-family, and residential projects.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Estimating Services</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Commercial Estimating</h3>
+
+<p>Electrical estimates for retail, office buildings, restaurants, warehouses, and tenant fit-outs.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Multi-Family Projects</h3>
+
+<p>Detailed takeoffs and budgeting for apartment buildings, condominiums, and mixed-use developments.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Design-Build Support</h3>
+
+<p>Value engineering and budgeting to help projects stay on schedule and within budget.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>We Estimate</h2>
+
+<ul>
+
+<li>Commercial Buildings</li>
+
+<li>Apartment Complexes</li>
+
+<li>Condominiums</li>
+
+<li>Restaurants</li>
+
+<li>Retail Spaces</li>
+
+<li>Warehouses</li>
+
+<li>Office Buildings</li>
+
+<li>Service Upgrades</li>
+
+<li>EV Charging Infrastructure</li>
+
+</ul>
+
+</section>
+
+<section class="services">
+
+<h2>Need a Bid?</h2>
+
+<p>
+
+Email your plans to:
+
+</p>
+
+<h3>
+
+info@themenbehindthewire.com
+
+</h3>
+
+<p>
+
+Or contact us directly to schedule a walkthrough.
+
+</p>
+
+<a class="primary-btn" href="contact.html">
+
+Request an Estimate
+
+</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 THE MEN BEHIND THE WIRE</p>
+
+<p>Powered by Brandon Hargrove Electric LLC</p>
+
+<p>Dorchester, Massachusetts</p>
+
+<p>857-701-3842</p>
+
+<p>info@themenbehindthewire.com</p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
