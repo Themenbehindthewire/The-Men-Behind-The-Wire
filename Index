@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>The Men Behind The Wire | Powered by Brandon Hargrove Electric LLC</title>
+
+  <meta name="description" content="Commercial, Multi-Family, Residential Electrical, EV Chargers, Electrical Estimating, Eversource Make-Ready, Security Cameras and Low Voltage.">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+THE MEN BEHIND THE WIRE
+
+</div>
+
+<nav>
+
+<a href="#">Home</a>
+
+<a href="#">About</a>
+
+<a href="#">Services</a>
+
+<a href="#">Projects</a>
+
+<a href="#">Estimating</a>
+
+<a href="#">Contact</a>
+
+</nav>
+
+<a class="button" href="#estimate">Free Estimate</a>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h3>Powered by Brandon Hargrove Electric LLC</h3>
+
+<h1>Commercial • Multi-Family • EV Infrastructure</h1>
+
+<p>
+
+Licensed & Insured Massachusetts Electrical Contractor specializing in Commercial Electrical, Electrical Estimating, EV Chargers, Eversource Make-Ready, Security Cameras and Low Voltage Systems.
+
+</p>
+
+<a class="primary-btn" href="#estimate">
+
+Request Estimate
+
+</a>
+
+<a class="secondary-btn" href="tel:8577013842">
+
+Call 857-701-3842
+
+</a>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Our Services</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Commercial Electrical</h3>
+
+<p>Retail, offices, restaurants, tenant fit-outs and renovations.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Multi-Family</h3>
+
+<p>Apartments, condominiums and mixed-use developments.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Electrical Estimating</h3>
+
+<p>Professional takeoffs, budgeting and bid preparation.</p>
+
+</div>
+
+<div class="card">
+
+<h3>EV Chargers</h3>
+
+<p>Level 2, DC Fast Charging (Level 3) and Eversource Make-Ready.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Security Cameras</h3>
+
+<p>CCTV, POS systems, data cabling and low-voltage wiring.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Subcontracting</h3>
+
+<p>Supporting electrical contractors and general contractors throughout Massachusetts.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="estimate" class="cta">
+
+<h2>Ready to Start Your Project?</h2>
+
+<p>
+
+Contact us today for commercial, residential or multi-family electrical services.
+
+</p>
+
+<a class="primary-btn" href="mailto:info@themenbehindthewire.com">
+
+Request a Free Estimate
+
+</a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 The Men Behind The Wire • Powered by Brandon Hargrove Electric LLC
+
+</p>
+
+<p>
+
+Dorchester, Massachusetts
+
+</p>
+
+<p>
+
+📞 857-701-3842
+
+</p>
+
+<p>
+
+✉ info@themenbehindthewire.com
+
+</p>
+
+</footer>
+
+</body>
+
+</html>
