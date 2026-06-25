@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Subcontracting | The Men Behind The Wire</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+THE MEN BEHIND THE WIRE
+
+</div>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="about.html">About</a>
+
+<a href="services.html">Services</a>
+
+<a href="projects.html">Projects</a>
+
+<a href="estimating.html">Estimating</a>
+
+<a href="subcontracting.html">Subcontracting</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h3>Powered by Brandon Hargrove Electric LLC</h3>
+
+<h1>Electrical Subcontracting</h1>
+
+<p>
+
+Reliable electrical subcontracting services for general contractors, developers, and electrical contractors across Massachusetts.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Who We Partner With</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>General Contractors</h3>
+
+<p>Professional electrical support for commercial, retail, tenant fit-outs, and new construction projects.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Electrical Contractors</h3>
+
+<p>Supplemental labor, project assistance, and experienced electricians to help complete your jobs.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Developers & Property Managers</h3>
+
+<p>Electrical services for apartment communities, mixed-use developments, renovations, and ongoing maintenance.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<h2>Subcontracting Services</h2>
+
+<ul>
+
+<li>Commercial Electrical Installations</li>
+
+<li>Multi-Family Residential</li>
+
+<li>Tenant Fit-Outs</li>
+
+<li>Electrical Estimating</li>
+
+<li>Panel Installations & Service Upgrades</li>
+
+<li>EV Charging Infrastructure</li>
+
+<li>Eversource Make-Ready</li>
+
+<li>Lighting Systems</li>
+
+<li>Security Cameras</li>
+
+<li>POS Systems</li>
+
+<li>Low Voltage & Data Cabling</li>
+
+</ul>
+
+</section>
+
+<section class="services">
+
+<h2>Why Partner With Us?</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Licensed & Insured</h3>
+
+<p>Professional workmanship backed by experience and reliability.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Commercial Experience</h3>
+
+<p>From tenant fit-outs to multi-family construction and EV infrastructure.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Safety & Communication</h3>
+
+<p>Clear communication, dependable scheduling, and a commitment to jobsite safety.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="cta">
+
+<h2>Looking for a Reliable Electrical Subcontractor?</h2>
+
+<p>
+
+Let's discuss your next project.
+
+</p>
+
+<a class="primary-btn" href="contact.html">
+
+Request a Consultation
+
+</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 THE MEN BEHIND THE WIRE</p>
+
+<p>Powered by Brandon Hargrove Electric LLC</p>
+
+<p>Dorchester, Massachusetts</p>
+
+<p>857-701-3842</p>
+
+<p>info@themenbehindthewire.com</p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
