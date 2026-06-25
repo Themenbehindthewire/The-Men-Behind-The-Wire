@@ -1,0 +1,59 @@
+{
+
+  "name": "The Men Behind The Wire",
+
+  "short_name": "TMBW",
+
+  "description": "Commercial, Multi-Family, Residential Electrical, EV Charging, Electrical Estimating, Security Cameras and Low Voltage throughout Massachusetts.",
+
+  "start_url": "/",
+
+  "scope": "/",
+
+  "display": "standalone",
+
+  "orientation": "portrait",
+
+  "background_color": "#0B0D11",
+
+  "theme_color": "#D4AF37",
+
+  "lang": "en-US",
+
+  "icons": [
+
+    {
+
+      "src": "favicon.svg",
+
+      "sizes": "any",
+
+      "type": "image/svg+xml",
+
+      "purpose": "any"
+
+    },
+
+    {
+
+      "src": "images/icon-192.png",
+
+      "sizes": "192x192",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "images/icon-512.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png"
+
+    }
+
+  ]
+
+}
